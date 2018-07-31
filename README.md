@@ -1,6 +1,6 @@
-Face Recognition using Singular vector decomposition.
+Face Recognition using Singular value decomposition.
 
-This recognition algorithm uses basic object recognition method which is singular vector decomposition.
+This recognition algorithm uses basic object recognition method which is singular value decomposition.
 Using SVD function you can train your own images and perform SVD on that images.After that you can test using 
 some mathmatical operations with U(eigenface) vector returned by SVD function.
 
